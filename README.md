@@ -1,16 +1,19 @@
 ![Banner](./presentacion.png.png)
 
-
-## 🌟 About Me
-- 🌍 From **Colombia**  
-- 💻 Passionate about **Web Development**  
-- 🚀 Learning **Python, HTML, CSS, JavaScript**  
-- 🎮 Gamer at heart & curious mind  
-- 📚 Always exploring new technologies  
+# 👋 ¡Hola! Soy Dayana 🚀  
 
 ---
 
-## ⚒️ Tech Stack
+## 🌟 Sobre mí
+- 🌍 De **Colombia**  
+- 💻 Apasionada por el **Desarrollo Web**  
+- 🚀 Actualmente aprendiendo **Python, HTML, CSS, JavaScript**  
+- 🎮 Gamer de corazón y mente curiosa  
+- 📚 Siempre explorando nuevas tecnologías  
+
+---
+
+## ⚒️ Tecnologías que uso
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,23 +24,28 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Conecta conmigo
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayanita1204bb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 
+---
 
-## 📊 GitHub Stats
-![Dayana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dayana196&show_icons=true&theme=radical)
+## 📊 Estadísticas de GitHub
+![Estadísticas de Dayana](https://github-readme-stats.vercel.app/api?username=Dayana196&show_icons=true&theme=radical)
 
 ---
 
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayana196&layout=compact&theme=tokyonight)
+## 🔥 Lenguajes más usados
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayana196&layout=compact&theme=tokyonight)
 
 ---
 
+## 🎯 Extras divertidos
+![Visitas al perfil](https://komarev.com/ghpvc/?username=Dayana196&color=blueviolet&style=flat-square)  
+![Racha en GitHub](https://streak-stats.demolab.com?user=Dayana196&theme=radical&hide_border=true)  
 
+---
 
-✨ Thanks for visiting my profile! Feel free to check out my repos 🚀
+✨ *¡Gracias por visitar mi perfil! Siéntete libre de revisar mis repos 🚀*  
