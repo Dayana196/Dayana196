@@ -54,8 +54,9 @@
 
 ---
 
-🐍 **Snake Game con mis contribuciones**  
-![Snake animation](https://github.com/Dayana196/Dayana196/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Snake Eating my Contributions
+![snake gif](https://github.com/Dayana196/Dayana196/blob/output/snake.svg)
+
 
 ---
 
