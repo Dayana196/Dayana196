@@ -9,8 +9,6 @@
 - 🎮 Gamer de corazón y mente curiosa  
 - 📚 Siempre explorando nuevas tecnologías  
 
-> *"Programar es hacer magia, pero solo funciona si crees en ella y tomaste café."* – Anonymous
-
 ---
 
 ## 🌐 Conecta conmigo
@@ -55,3 +53,7 @@
 ---
 
 ✨ *¡Gracias por visitar mi perfil! Siéntete libre de revisar mis repos 🚀*  
+
+---
+
+> *"Programar es hacer magia, pero solo funciona si crees en ella y tomaste café."* – Anonymous
