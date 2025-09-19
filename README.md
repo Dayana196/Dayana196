@@ -1,11 +1,15 @@
 ![Banner](./presentacion.png.png)
 
+---
+
 ## 🌟 Sobre mí
 - 💻 Apasionada por el **Desarrollo Web**  
-- 🚀 Actualmente aprendiendo **JavaScript**
+- 🚀 Actualmente aprendiendo **JavaScript**  
 - 🌍 De **Colombia**  
 - 🎮 Gamer de corazón y mente curiosa  
 - 📚 Siempre explorando nuevas tecnologías  
+
+> *"El código es como el humor. Cuando tienes que explicarlo, es malo."* – Cory House  
 
 ---
 
@@ -30,18 +34,28 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🚀 Proyectos Destacados 
+- 🛒 [Tienda de ropa con JS](https://github.com/Dayana196/prueba_js)
+- 🎮 [MiniJuego en Python](https://github.com/Tatii22/Red-Social-Gamer))  
 
-<p align="center">
+---
+
+## 📊 Estadísticas de GitHub
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dayana196&show_icons=true&theme=radical" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayana196&layout=compact&theme=tokyonight" height="180em"/>
-</p>
+</div>
 
 ---
 
 ## 🎯 Extras divertidos
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=Dayana196&color=blueviolet&style=flat-square)  
 ![Racha en GitHub](https://streak-stats.demolab.com?user=Dayana196&theme=radical&hide_border=true)  
+
+---
+
+🐍 **Snake Game con mis contribuciones**  
+![Snake animation](https://github.com/Dayana196/Dayana196/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
