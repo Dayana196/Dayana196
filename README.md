@@ -9,7 +9,7 @@
 - 🎮 Gamer de corazón y mente curiosa  
 - 📚 Siempre explorando nuevas tecnologías  
 
-> *"El código es como el humor. Cuando tienes que explicarlo, es malo."* – Cory House  
+> *"Programar es hacer magia, pero solo funciona si crees en ella y tomaste café."* – Anonymous
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## 🚀 Proyectos Destacados 
 - 🛒 [Tienda de ropa con JS](https://github.com/Dayana196/prueba_js)
-- 🎮 [MiniJuego en Python](https://github.com/Tatii22/Red-Social-Gamer))  
+- 🎮 [MiniJuego en Python](https://github.com/Tatii22/Red-Social-Gamer) 
 
 ---
 
@@ -51,12 +51,6 @@
 ## 🎯 Extras divertidos
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=Dayana196&color=blueviolet&style=flat-square)  
 ![Racha en GitHub](https://streak-stats.demolab.com?user=Dayana196&theme=radical&hide_border=true)  
-
----
-
-## 🐍 Snake Eating my Contributions
-![snake gif](https://github.com/Dayana196/Dayana196/blob/main/snake.svg)
-
 
 ---
 
