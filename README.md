@@ -55,7 +55,7 @@
 ---
 
 ## 🐍 Snake Eating my Contributions
-![snake gif](https://github.com/Dayana196/Dayana196/blob/output/snake.svg)
+![snake gif](https://github.com/Dayana196/Dayana196/blob/main/snake.svg)
 
 
 ---
